@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "name": "Computer 111",
+        "description": "best computer today",
+        "ram": "4",
+        "harddrive": "500gb",
+        "company": "AMD",
+        "image": "https://www.ivory.co.il/files/catalog/org/1608463221t21VM.jpg",
+        "os": "Windows 7",
+        "price": "1000"
+    },
+    {
+        "id": "2",
+        "name": "Computer 222",
+        "description": "best computer yesterday",
+        "ram": "32",
+        "harddrive": "500gb",
+        "company": "Intel",
+        "image": "https://www.ivory.co.il/files/catalog/org/1608463221t21VM.jpg",
+        "os": "Windows 10",
+        "price": "3500"
+    },
+    {
+        "id": "3",
+        "name": "Computer 333",
+        "description": "best computer this week",
+        "ram": "16",
+        "harddrive": "100gb",
+        "company": "AMD",
+        "image": "https://www.ivory.co.il/files/catalog/org/1608463221t21VM.jpg",
+        "os": "Windows 7",
+        "price": "2500"
+    },
+    {
+        "id": "4",
+        "name": "Computer 444",
+        "description": "best computer this month",
+        "ram": "8",
+        "harddrive": "1tb",
+        "company": "Intel",
+        "image": "https://www.ivory.co.il/files/catalog/org/1608463221t21VM.jpg",
+        "os": "Windows 8",
+        "price": "1500"
+    }    
+]

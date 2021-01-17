@@ -1,3 +1,4 @@
+import { Computer } from './classes/computer';
 import { Component } from '@angular/core';
 
 @Component({
@@ -7,4 +8,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularDataForm';
+
+  // computers list, array of computers
+  computers: Array<Computer> = new Array<Computer>();
 }
